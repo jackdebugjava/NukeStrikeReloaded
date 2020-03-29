@@ -1,0 +1,9 @@
+name: NukeStikeReloaded
+version: 1.0
+main: io.github.jackdebugjava.NukeStrikeReloaded.Main
+description: Nuke Strike allows you to call in nukes from the sky.
+author: jackapops
+commands:
+    giveflare:
+        usage: /<command> or /<command> <player name>
+        description: Give youself or another player a flare.
